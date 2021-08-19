@@ -17,7 +17,7 @@ public class ConitionTest {
 		System.out.println("입력2:");
 		int num2 = scanner.nextInt();
 		
-		max = (num1 > num2) ? num1 : num2;
+		max = (num1 > num2)? num1 : num2;
 		System.out.println("result: " + max);
 		
 	}
